@@ -1,8 +1,8 @@
 # Sate Kencana — warung sate malam
 
-[![Rank](https://make.fun/badge/best-cooking-game-20261125-0137/Chapo1245/best-cooking-game-20261125-0137-v2-chapo124574/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![Reward](https://make.fun/badge/best-cooking-game-20261125-0137/Chapo1245/best-cooking-game-20261125-0137-v2-chapo124574/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![make.fun](https://make.fun/badge/best-cooking-game-20261125-0137/Chapo1245/best-cooking-game-20261125-0137-v2-chapo124574/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Chapo1245/best-cooking-game-20261125-0137-v2-chapo124574/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Chapo1245/best-cooking-game-20261125-0137-v2-chapo124574/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A night-market satay grill game, built for the [make.fun bounty "Best Cooking Game"](https://make.fun/bounty/best-cooking-game-20261125-0137).
 
